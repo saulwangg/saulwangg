@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saulwangg](https://github.com/saulwangg)
 
-- 💬 Ask me about **Computer vision, YOLO, AI product ideas, entrepreneurship, BI and data warehousing**
+- 💬 Ask me about **Computer vision, YOLO, AI, business, entrepreneurship, BI and data warehousing**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mingjie-wang-5593631b7/**
 
