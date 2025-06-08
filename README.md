@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Computer vision, YOLO, AI, business, entrepreneurship, BI and data warehousing**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mingjie-wang-5593631b7/**
+- 📫 How to reach me **https://www.linkedin.com/in/mingjie-wang-5593631b7**
 
 - ⚡ Fun fact **I’m building my life around three passions — football, trading and building things**
 
